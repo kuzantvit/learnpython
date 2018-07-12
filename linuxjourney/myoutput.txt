@@ -1,0 +1,16 @@
+total 924
+-rw-r--r-- 1 root   root   5802 Jul  3 09:07 alternatives.log
+drwxr-xr-x 2 root   root   4096 May 22 11:02 apt
+-rw-r----- 1 syslog adm  310654 Jul  3 09:38 auth.log
+-rw------- 1 root   utmp 201216 Jul  3 09:12 btmp
+-rw-r--r-- 1 syslog adm  106676 Jul  2 07:21 cloud-init.log
+-rw-r--r-- 1 root   root   4299 Jul  2 07:21 cloud-init-output.log
+drwxr-xr-x 2 root   root   4096 Apr  9 14:25 dist-upgrade
+-rw-r--r-- 1 root   root  93966 Jul  3 09:07 dpkg.log
+drwxr-xr-x 2 root   root   4096 May 22 10:54 fsck
+-rw-r----- 1 syslog adm   58955 Jul  3 06:37 kern.log
+-rw-rw-r-- 1 root   utmp    292 Jul  3 07:09 lastlog
+drwxr-xr-x 2 root   root   4096 Dec  7  2017 lxd
+-rw-r----- 1 syslog adm  105802 Jul  3 09:17 syslog
+drwxr-x--- 2 root   adm    4096 Jul  3 06:37 unattended-upgrades
+-rw-rw-r-- 1 root   utmp   3456 Jul  3 07:09 wtmp

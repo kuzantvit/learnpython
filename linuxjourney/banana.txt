@@ -1,0 +1,3 @@
+-i Hello World !
+hellow world blya
+/usr/lp/linuxjourney

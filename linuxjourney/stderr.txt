@@ -1,0 +1,2 @@
+ls: cannot access '/gavno/fake': No such file or directory
+ls: cannot access '/gavno/fake': No such file or directory
